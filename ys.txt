@@ -1,0 +1,17 @@
+{
+    "urls": [
+      {
+          "url": "https://agit.ai/ccy/v/raw/branch/master/v",
+          "name": "👇PC软件库收集网络接口👇",
+          "time": "主线路更新2023年03月13日"
+      },
+      {
+          "url": "https://xn--z7x900a.love/",
+          "name": "肥猫"
+      },
+      {
+          "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+          "name": "小苹果"
+      }
+  ]
+}
