@@ -1,6 +1,6 @@
 央视频道,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2财经,http://histar.zapi.us.kg/?id=cctv2
+CCTV-2财经,http://39.135.133.177:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -45,3 +45,5 @@ CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 动作电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 经典电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+超级电影,http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+古装剧场,http://39.134.65.73:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
